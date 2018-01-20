@@ -1,6 +1,6 @@
 #FizzBuzz 問題
 
-a = int(input())
+a = int(input()) #　aは自然数
 
 b = 1
 while b < a:
